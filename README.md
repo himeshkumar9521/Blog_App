@@ -36,3 +36,9 @@ A full-stack blog application built with a modern frontend and backend architect
 
 * blog-app/             # Frontend applicatio
 * blog-app-server/      # Backend / API server
+
+📌 Future Improvements
+* User authentication
+* Comments and likes
+* Categories and tags
+* Deployment to a cloud platform
