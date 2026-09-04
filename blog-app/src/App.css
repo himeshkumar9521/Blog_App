@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+/* Add this to lock the background globally */
+body {
+    @apply bg-gradient-to-r from-blue-800 to-purple-300 bg-fixed h-screen w-full   m-0 flex flex-col justify-center items-center;
+  margin:0px;
+  box-sizing: border-box;
+}
+
+#root {
+  min-height: 100vh; /* 100% of the Viewport Height */
+  width: 100vw;       /* 100% of the Viewport Width */
+  
+  /* Optional: This flex setup makes it very easy to push a footer to the bottom */
+  display: flex;
+  flex-direction: column;
+}
