@@ -34,7 +34,7 @@ A full-stack blog application built with a modern frontend and backend architect
 
 ## 📂 Project Structure
 
-* blog-app/             # Frontend applicatio
+* blog-app/             # Frontend application
 * blog-app-server/      # Backend / API server
 
 📌 Future Improvements
